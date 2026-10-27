@@ -35,8 +35,8 @@ jobs:
           set -euo pipefail
           sudo apt-get update
           sudo apt-get install --no-install-recommends -y git-buildpackage
-          export DEBEMAIL="dev@radxa.com"
-          export DEBFULLNAME='"Radxa Computer Co., Ltd"'
+          export DEBEMAIL="vladimir.lsk.cool@gmail.com"
+          export DEBFULLNAME="LibreQ1Pro"
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           make dch
