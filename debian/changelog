@@ -1,3 +1,15 @@
+aic8800 (5.0+git20260123.5f7be68d-11) noble; urgency=medium
+
+  [ Misaka0x272F ]
+  * usb: fix set_monitor_channel guard for 6.12.101+
+  * usb: support UGREEN a69c:88de (AIC8800DC variant)
+
+  [ Vladimir Avtsenov ]
+  * usb: fix start of the AIC8800DC MCU chip variant
+  * chore: detach the fork from Radxa release infrastructure
+
+ -- LibreQ1Pro <vladimir.lsk.cool@gmail.com>  Tue, 27 Oct 2026 05:22:21 +0000
+
 aic8800 (5.0+git20260123.5f7be68d-10) noble; urgency=medium
 
   [ Mecid Urganci ]
