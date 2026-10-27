@@ -1,3 +1,10 @@
+aic8800 (5.0+git20260123.5f7be68d-12) noble; urgency=medium
+
+  [ Vladimir Avtsenov ]
+  * usb: ship a udev rule that ejects the AIC8800 mass storage mode
+
+ -- LibreQ1Pro <vladimir.lsk.cool@gmail.com>  Tue, 27 Oct 2026 05:56:59 +0000
+
 aic8800 (5.0+git20260123.5f7be68d-11) noble; urgency=medium
 
   [ Misaka0x272F ]
